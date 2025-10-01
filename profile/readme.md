@@ -1,7 +1,9 @@
-The Global Energy System Model - Global Readme
+# The Global Energy System Model - Global ReadMe
 
-Disclaimer: These repositories are currently still work in progress. For the previous public repository of the GAMS-based GENeSYS-MOD version, please refer to https://git.tu-berlin.de/genesysmod/genesys-mod-public
+### Welcome to the GitHub Org page for the Global Energy System Model (GENeSYS-MOD).
 
-In the near future, all development efforts, data, and tools will be provided here in a centralized fashion, including documentation and instructions.
+Here, all development efforts for GENeSYS-MOD in both Julia (GENeSYS-MOD.jl) and GAMS (GENeSYS-MOD.gms) take place. Feel free to fork, contribute, comment, discuss, or ask questions. :)
 
-Feel free to pull, fork, use, and report any issues with us. :)
+We also provide some tools and documentation, as well as all input data for our model.
+
+**Find our documentation here: https://genesysmod.readthedocs.io/en/latest/index.html**
