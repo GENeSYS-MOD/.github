@@ -7,3 +7,9 @@ Here, all development efforts for GENeSYS-MOD in both Julia (GENeSYS-MOD.jl) and
 We also provide some tools and documentation, as well as all input data for our model.
 
 **Find our documentation here: https://genesysmod.readthedocs.io/en/latest/index.html**
+
+
+##### Relevant badges (across all repos):
+
+[![Documentation Status](https://app.readthedocs.org/projects/genesysmod/badge/?version=latest&style=flat-square)](https://genesysmod.readthedocs.io/en/latest/?badge=latest)
+[![status](https://joss.theoj.org/papers/c5ecbff41e8464c9d43f5c76879befb4/status.svg)](https://joss.theoj.org/papers/c5ecbff41e8464c9d43f5c76879befb4)
